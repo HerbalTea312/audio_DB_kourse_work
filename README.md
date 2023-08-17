@@ -10,4 +10,4 @@
 База данных состоит из 10 основных таблиц с разными типами связей (1:1, 1:N, иерархическая), одной таблицы для аутентификации, 2х хранимых процедур и табличной функции.
 
 ## Концептуальная схема базы данных
-<img src="https://github.com/HerbalTea312/audio_DB_kourse_work/raw/main/db_scheme.png" width="500">
+<img src="https://github.com/HerbalTea312/audio_DB_kourse_work/raw/main/db_scheme.png" width="1000">
